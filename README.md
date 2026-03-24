@@ -150,10 +150,6 @@ After training, the system generates:
 
 * Trained Model
 
-  * `.joblib` → Random Forest
-  * `.pt` → PyTorch Conv1D
-  * `.h5` → Keras Conv1D
-
 * `predicted_labels.csv` → Binary predictions
 
 * `predicted_scores.csv` → Prediction probabilities
