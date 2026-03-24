@@ -129,18 +129,6 @@ python openmic_temporal_conv1d.py \
 
 ---
 
-### Optional Parameters
-
-```bash
---epochs 50
---batch_size 32
---learning_rate 0.001
---test_size 0.2
---relevance-threshold 0.5
-```
-
----
-
 ## 📊 Results
 
 | Model           | Training Time (sec) | Micro F1 | Macro F1 | Macro AUC |
@@ -222,7 +210,3 @@ This project demonstrates that incorporating **temporal feature learning** throu
 
 ---
 
-## 📬 Contact
-
-**Shreyansh Rajeshkumar Patel**
-📧 [patelsh1@b-tu.de](mailto:patelsh1@b-tu.de)
