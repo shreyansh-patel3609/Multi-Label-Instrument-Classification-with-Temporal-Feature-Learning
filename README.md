@@ -154,8 +154,6 @@ After training, the system generates:
 
 * `predicted_scores.csv` → Prediction probabilities
 
-* `*_history.csv` → Training history
-
 ---
 
 ## 🧰 Requirements
